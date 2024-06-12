@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ChoiHaeun&fontSize=70)
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/chlgkdms/gitanimals">
   <img src="https://render.gitanimals.org/farms/{chlgkdms}"/>
 </a>
 
